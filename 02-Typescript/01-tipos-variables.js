@@ -27,3 +27,21 @@ var Usuario = /** @class */ (function () {
     return Usuario;
 }());
 var usuario = new Usuario('Jorge', 24, '1715984389');
+console.log('usuario', usuario);
+var usuarioOtro = {
+    mNombre: 'Ivan',
+    mEdad: '24',
+    mCedula: '1715984389'
+};
+console.log('usuarioOtro', usuarioOtro);
+function noHagoNada() { }
+console.log('No hace nada', noHagoNada());
+//Buena practica
+var UsuarioTres = /** @class */ (function () {
+    function UsuarioTres(mNombre, mEdad, mCedula) {
+        this.mNombre = mNombre;
+        this.mEdad = mEdad;
+        this.mCedula = mCedula;
+    }
+    return UsuarioTres;
+}());

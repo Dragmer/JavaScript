@@ -35,3 +35,29 @@ class Usuario {
 }
 
 let usuario: Usuario = new Usuario('Jorge',24,'1715984389');
+console.log('usuario',usuario)
+let usuarioOtro = {
+    mNombre: 'Ivan',
+    mEdad: '24',
+    mCedula:'1715984389'
+}
+
+console.log('usuarioOtro',usuarioOtro)
+
+function noHagoNada() {}
+console.log('No hace nada',noHagoNada())
+
+interface UsuarioDos{
+    mNombre: string;
+    mEdad: string;
+    mCedula: string;
+    imprimirEnConsola(nombre: string): void;
+}
+//Buena practica
+class UsuarioTres {
+    constructor(public mNombre: string,
+                private mEdad: number,
+                protected mCedula: string){
+
+    }
+}
