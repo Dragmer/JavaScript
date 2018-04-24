@@ -14,43 +14,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01-tipos-variables.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-Typescript/01-tipos-variables.ts">
+      <file leaf-file-name="02-operadores.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-Typescript/02-operadores.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="541">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ejercicio1.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio1.ts">
+      <file leaf-file-name="02-operadores.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaScriptProfe/Typescript/02-operadores.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ejercicio2.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio2.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ejercicio3.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio3.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+            <state relative-caret-position="570">
+              <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +50,8 @@
         <option value="$PROJECT_DIR$/02-Typescript/Ejercicio1.ts" />
         <option value="$PROJECT_DIR$/02-Typescript/Ejercicio2.ts" />
         <option value="$PROJECT_DIR$/02-Typescript/Ejercicio3.ts" />
+        <option value="$PROJECT_DIR$/02-Typescript/01-tipos-variables.ts" />
+        <option value="$PROJECT_DIR$/02-Typescript/02-operadores.ts" />
       </list>
     </option>
   </component>
@@ -111,8 +102,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,18 +129,19 @@
       <workItem from="1524259300731" duration="245000" />
       <workItem from="1524532028312" duration="607000" />
       <workItem from="1524552526719" duration="10185000" />
+      <workItem from="1524598812054" duration="4834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11037000" />
+    <option name="totallyTimeSpent" value="15871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17395833" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -162,8 +153,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,9 +164,7 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/02-Typescript/Ejercicio1.js" />
-        <option value="$PROJECT_DIR$/02-Typescript/Ejercicio2.js" />
-        <option value="$PROJECT_DIR$/02-Typescript/Ejercicio3.js" />
+        <option value="$PROJECT_DIR$/02-Typescript/02-operadores.js" />
       </list>
     </option>
   </component>
@@ -189,33 +178,33 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/02-Typescript/01-tipos-variables.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-Typescript/01-tipos-variables.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="806">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio1.ts">
+    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio1.ts" />
+    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio2.ts" />
+    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio3.ts" />
+    <entry file="file://$PROJECT_DIR$/02-Typescript/01-tipos-variables.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        <state relative-caret-position="489">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio2.ts">
+    <entry file="file://$PROJECT_DIR$/../JavaScriptProfe/Typescript/02-operadores.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="25" />
+        <state relative-caret-position="570">
+          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-Typescript/Ejercicio3.ts">
+    <entry file="file://$PROJECT_DIR$/02-Typescript/02-operadores.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        <state relative-caret-position="541">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
